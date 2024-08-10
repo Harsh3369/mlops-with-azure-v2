@@ -38,7 +38,7 @@
       "execution_count": 1,
       "metadata": {
         "gather": {
-          "logged": 1722916378454
+          "logged": 1722998337123
         }
       }
     },
@@ -130,7 +130,7 @@
       "execution_count": 2,
       "metadata": {
         "gather": {
-          "logged": 1722916378671
+          "logged": 1722998337521
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -154,7 +154,7 @@
       "execution_count": 3,
       "metadata": {
         "gather": {
-          "logged": 1722916378848
+          "logged": 1722998337821
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -194,7 +194,7 @@
       "execution_count": 4,
       "metadata": {
         "gather": {
-          "logged": 1722916379956
+          "logged": 1722998338734
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -236,7 +236,7 @@
       "execution_count": 5,
       "metadata": {
         "gather": {
-          "logged": 1722916380105
+          "logged": 1722998339093
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -287,7 +287,7 @@
       "execution_count": 6,
       "metadata": {
         "gather": {
-          "logged": 1722916381989
+          "logged": 1722998348719
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -318,7 +318,7 @@
       "execution_count": 7,
       "metadata": {
         "gather": {
-          "logged": 1722916382340
+          "logged": 1722998349095
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -341,7 +341,7 @@
       "execution_count": 8,
       "metadata": {
         "gather": {
-          "logged": 1722916382558
+          "logged": 1722998349474
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -372,7 +372,7 @@
       "execution_count": 9,
       "metadata": {
         "gather": {
-          "logged": 1722916382810
+          "logged": 1722998349814
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -417,7 +417,7 @@
       "execution_count": 10,
       "metadata": {
         "gather": {
-          "logged": 1722916382976
+          "logged": 1722998350377
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -453,7 +453,7 @@
       "execution_count": 11,
       "metadata": {
         "gather": {
-          "logged": 1722916383144
+          "logged": 1722998350786
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -488,7 +488,7 @@
       "execution_count": 12,
       "metadata": {
         "gather": {
-          "logged": 1722916383340
+          "logged": 1722998351120
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -519,7 +519,7 @@
       "execution_count": 13,
       "metadata": {
         "gather": {
-          "logged": 1722916383493
+          "logged": 1722998351429
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -550,7 +550,7 @@
       "execution_count": 14,
       "metadata": {
         "gather": {
-          "logged": 1722916383801
+          "logged": 1722998351777
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -608,7 +608,7 @@
       "execution_count": 15,
       "metadata": {
         "gather": {
-          "logged": 1722916383967
+          "logged": 1722998352124
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -653,7 +653,7 @@
       "execution_count": 16,
       "metadata": {
         "gather": {
-          "logged": 1722916384197
+          "logged": 1722998352510
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -687,7 +687,7 @@
       "execution_count": 17,
       "metadata": {
         "gather": {
-          "logged": 1722916384387
+          "logged": 1722998352817
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -717,7 +717,7 @@
       "execution_count": 18,
       "metadata": {
         "gather": {
-          "logged": 1722916384625
+          "logged": 1722998353059
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -750,7 +750,7 @@
       "execution_count": 19,
       "metadata": {
         "gather": {
-          "logged": 1722916384857
+          "logged": 1722998353340
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -780,7 +780,7 @@
       "execution_count": 20,
       "metadata": {
         "gather": {
-          "logged": 1722916385037
+          "logged": 1722998353646
         },
         "jupyter": {
           "outputs_hidden": false,
@@ -830,7 +830,7 @@
           }
         },
         "gather": {
-          "logged": 1722916385380
+          "logged": 1722998353951
         }
       }
     },
@@ -884,7 +884,7 @@
           }
         },
         "gather": {
-          "logged": 1722916385664
+          "logged": 1722998354267
         }
       }
     },
@@ -914,7 +914,7 @@
           }
         },
         "gather": {
-          "logged": 1722916385844
+          "logged": 1722998354498
         }
       }
     },
@@ -945,7 +945,7 @@
           }
         },
         "gather": {
-          "logged": 1722916386048
+          "logged": 1722998354724
         }
       }
     },
@@ -978,7 +978,7 @@
           }
         },
         "gather": {
-          "logged": 1722916386231
+          "logged": 1722998355003
         }
       }
     },
@@ -1008,7 +1008,7 @@
           }
         },
         "gather": {
-          "logged": 1722916386429
+          "logged": 1722998355246
         }
       }
     },
@@ -1049,7 +1049,7 @@
           }
         },
         "gather": {
-          "logged": 1722916386660
+          "logged": 1722998355475
         }
       }
     }
